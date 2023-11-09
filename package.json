@@ -10,8 +10,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@studio-freight/lenis": "^1.0.27",
     "gsap": "^3.12.2",
     "router-dom": "^2.2.11",
+    "sass": "^1.69.5",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
   },

@@ -5,6 +5,8 @@
 `npm init vue@latest`
 `npm i gsap`
 `npm i router-dom`
+`npm install @studio-freight/lenis`
+`npm install sass`
 
 # vue.js의 특징
 
