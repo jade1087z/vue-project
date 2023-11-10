@@ -21,7 +21,7 @@ import { contactText } from '../constants'
             <div class="left">
               <p>CONTACT ME!!</p>
               <div>
-                <img src="assets/img/port.png" alt="" />
+                <img src="@/assets/img/port.png" alt="" />
               </div>
             </div>
             <div class="right">
